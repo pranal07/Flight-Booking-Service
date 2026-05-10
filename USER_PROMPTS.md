@@ -36,7 +36,7 @@ how to run the service
 example requests
 what you would improve if you had more time
 
-give me the best prompts to make it the best project i want proper and the best code structure and follow design principles proper interfaces , service classes controllers constants configs , beanConfig where all beans are created, factory methods , singletons , repository , proper design check the current design for a flight booking system.
+give me the best prompts to make it follow the best design and architecture , i want proper and the best code structure and follow design principles proper interfaces , service classes controllers constants configs , beanConfig where all beans are created, factory methods , singletons , repository , proper design check the current design for a flight booking system.
 
 
 ---
