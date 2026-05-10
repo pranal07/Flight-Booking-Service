@@ -1,0 +1,73 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# Gradle (if added later)
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Compiled / packaged
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+
+# Logs
+*.log
+logs/
+
+# Spring Boot
+spring-boot-*.log
+
+# IDE — IntelliJ / Cursor
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# IDE — Eclipse
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache
+bin/
+
+# IDE — VS Code (optional local settings)
+.vscode/*
+!.vscode/settings.json.example
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+*.pem
+
+# Test / coverage
+*.exec
+coverage/
+.nyc_output/
+
+# Temporary
+*.tmp
+*.temp
+*.swp
+*~
